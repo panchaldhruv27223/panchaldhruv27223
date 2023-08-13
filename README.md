@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223" alt="panchaldhruv27223" /></a> </p>
 
-- 🔭 I’m currently Studying **Machine learning,Deep learning with PW skills Data Science Master 2.O**
-
+- 🔭 I’m currently Studying **Machine learning,Deep learning
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" height="30" width="40" /></a>
