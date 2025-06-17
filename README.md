@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
-<h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- <h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3> -->
 
 <!-- Typing SVG Banner -->
 <p align="center">
@@ -16,11 +11,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 ---
 
 ## 📍 Currently Working On
 - Machine Learning & Deep Learning Projects  
-- Natural Language Processing & GenAI  
+- Natural Language Processing & computer vision & GenAI  
 - Full-Stack Integrations with ML Models
 
 ---
@@ -68,9 +68,9 @@
 ---
 
 ## 🌟 Featured Blog Posts
-- 🔗 [Zero to Hero: NLP Pipeline Explained](https://dhruv-panchal.medium.com/nlp-pipeline)
-- 🔗 [Deploying ML Models with Flask + AWS](https://dhruv-panchal.medium.com/deploying-ml-flask)
-- 🔗 [Mastering GenAI with Transformers](https://dhruv-panchal.medium.com/genai-transformers-article)
+- 🔗 [Mastering TensorBoard with PyTorch](https://dhruv-panchal.medium.com/mastering-tensorboard-with-pytorch-a-hands-on-guide-with-fashion-mnist-6404a260618f)
+- 🔗 [U-Net for Satellite Image Segmentation](https://dhruv-panchal.medium.com/fine-tuning-u-net-for-satellite-image-segmentation-5073146deb23)
+- 🔗 [All You Need to Know About the “collections” Module in Python.](https://medium.com/@dhruv-panchal/all-you-need-to-know-about-the-collections-module-in-python-c219b8a96f68)
 
 [More on Medium →](https://dhruv-panchal.medium.com/)
 
