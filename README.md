@@ -62,13 +62,13 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&theme=radical" alt="Stats"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchaldhruv27223&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&theme=radical" alt="Streak" />
 </p>
 
