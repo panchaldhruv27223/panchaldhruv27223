@@ -11,11 +11,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
+---
 
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 ---
 
 ## 📍 Currently Working On
