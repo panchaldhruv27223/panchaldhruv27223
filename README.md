@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
 <h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,6 +8,10 @@
   </a>
 </p>
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 ---
 
 ### 🔭 Currently Working On
