@@ -3,7 +3,7 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;ML+%2F+DL+%2F+GenAI+Developer;Building+cool+things+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=ML+%2F+DL+%2F+GenAI+Developer;Data+Science+Enthusiast;Building+cool+things+with+AI" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Trophies -->
