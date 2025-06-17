@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
-<h3 align="center">🚀 Data Science | Machine Learning | Deep Learning | NLP | GenAI</h3>
+<h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -15,20 +17,21 @@
 
 ### 🔭 Currently Working On
 
-- Machine Learning Projects
-- Deep Learning Architectures
-- NLP Tasks and Large Language Models (LLMs)
-- GenAI Applications
+- Machine Learning & Deep Learning Projects  
+- Natural Language Processing & GenAI  
+- Full-Stack Integrations with ML Models  
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
+
+<br/>
 
 ---
 
@@ -52,7 +55,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
 </p>
@@ -61,14 +64,28 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panchaldhruv27223&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchaldhruv27223&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&theme=default" alt="GitHub Streak"/>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&" alt="GitHub Streak" />
 </p>
+
+---
+
+<!--
+### 🚀 Featured Projects
+- 📌 [Project 1](https://github.com/yourrepo)
+- 📌 [Project 2](https://github.com/yourrepo)
+
+### 🎯 Learning Goals
+- Transformers and LLM fine-tuning
+- Advanced MLOps (CI/CD, Docker, Airflow)
+- Quantum Machine Learning
+-->
+
