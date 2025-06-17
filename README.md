@@ -14,20 +14,24 @@
 </p>
 ---
 
-### 🔭 Currently Working On
+## 🔭 Currently Working On
 
 - Machine Learning & Deep Learning Projects  
 - Natural Language Processing & GenAI  
 - Full-Stack Integrations with ML Models  
 
+<br/>
+
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
+  <a href="https://dhruv-panchal.medium.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" /> </a>
+  
 </p>
 
 <br/>
