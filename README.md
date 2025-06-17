@@ -22,7 +22,7 @@
 
 ## 📍 Currently Working On
 - Machine Learning & Deep Learning Projects  
-- Natural Language Processing & computer vision & GenAI  
+- Computer Vision & Natural Language Processing & GenAI  
 - Full-Stack Integrations with ML Models
 
 ---
