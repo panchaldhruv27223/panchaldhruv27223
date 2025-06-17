@@ -77,6 +77,10 @@
 
 ---
 
+
+### 🚀 Featured Projects
+- 📌 [High-Precision Rooftop Detection in Urban Aerial Imagery](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
+  
 <!--
 ### 🚀 Featured Projects
 - 📌 [Project 1](https://github.com/yourrepo)
