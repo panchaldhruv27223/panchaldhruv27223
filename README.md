@@ -28,21 +28,6 @@
 ## 🚀 Featured Project
 - 📌 [High-Precision Rooftop Detection in Urban Aerial Imagery](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
 
-
----
-
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dhruv-panchal.medium.com/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
-<br/><br/>
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -89,10 +74,17 @@
 
 ---
 
-## 🚀 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/panchaldhruv27223/panchaldhruv27223/blob/output/github-contribution-grid-snake.svg" />
+## 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dhruv-panchal.medium.com/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
+
+<br/><br/>
 
 ---
 
