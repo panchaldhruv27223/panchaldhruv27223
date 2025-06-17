@@ -20,14 +20,14 @@
 
 ---
 
-## 📍 Currently Working On
+## 📍 What I'm Working On
 - Machine Learning & Deep Learning Projects  
 - Computer Vision & Natural Language Processing & GenAI  
 - Full-Stack Integrations with ML Models
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Highlighted Project
 - 📌 [High-Precision Rooftop Detection in Urban Aerial Imagery](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-## 🌟 Featured Blog Posts
+## 🌟 Blog Posts
 - 🔗 [Mastering TensorBoard with PyTorch](https://dhruv-panchal.medium.com/mastering-tensorboard-with-pytorch-a-hands-on-guide-with-fashion-mnist-6404a260618f)
 - 🔗 [U-Net for Satellite Image Segmentation](https://dhruv-panchal.medium.com/fine-tuning-u-net-for-satellite-image-segmentation-5073146deb23)
 - 🔗 [All You Need to Know About the “collections” Module in Python.](https://medium.com/@dhruv-panchal/all-you-need-to-know-about-the-collections-module-in-python-c219b8a96f68)
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&theme=radical" alt="Stats"/>
 </p>
@@ -76,7 +76,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -90,7 +90,7 @@
 
 ---
 
-## 🔹 Quote
+## 🔹 Favorite Quote
 > "The best way to predict the future is to invent it." – Alan Kay
 
 ---
