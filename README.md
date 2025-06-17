@@ -26,7 +26,7 @@
 
 ---
 
-## 📍 What I'm Working On
+## 📍Current Focus Areas
 - Machine Learning & Deep Learning Projects  
 - Computer Vision & Natural Language Processing & GenAI  
 - Full-Stack Integrations with ML Models
@@ -70,7 +70,7 @@
 ---
 
 ## 📊 GitHub Analytics
-
+Here are some of my GitHub analytics demonstrating my consistent contributions and expertise across multiple languages
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchaldhruv27223&layout=compact&theme=radical" />
