@@ -40,7 +40,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -70,7 +70,7 @@
 ---
 
 ## 📊 GitHub Analytics
-Here are some of my GitHub analytics demonstrating my consistent contributions and expertise across multiple languages
+Here are some of my GitHub analytics demonstrating my consistent contributions and expertise across multiple languages.
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchaldhruv27223&layout=compact&theme=radical" />
