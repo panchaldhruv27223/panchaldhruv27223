@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?&style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%23663399.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
 <!-- <h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3> -->
 
 <!-- Typing SVG Banner -->
