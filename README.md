@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Highlighted Project
-- 📌 [![High-Precision Rooftop Detection in Urban Aerial Imagery](https://img.shields.io/badge/🔍%20Solar%20Rooftop%20Detection-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
+[![High-Precision Rooftop Detection in Urban Aerial Imagery](https://img.shields.io/badge/🔍%20Solar%20Rooftop%20Detection-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
 
 ---
 
