@@ -1,94 +1,102 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
 <h3 align="center">A Data Science Enthusiast from India 🇮🇳</h3>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <!-- Profile Views -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=panchaldhruv27223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;ML+%2F+DL+%2F+GenAI+Developer;Building+cool+things+with+AI" alt="Typing SVG" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=panchaldhruv27223&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ---
 
-## 🔭 Currently Working On
-
+## 📍 Currently Working On
 - Machine Learning & Deep Learning Projects  
 - Natural Language Processing & GenAI  
-- Full-Stack Integrations with ML Models  
+- Full-Stack Integrations with ML Models
+
+---
+
+## 🚀 Featured Project
+- 📌 [High-Precision Rooftop Detection in Urban Aerial Imagery](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
+
 
 ---
 
 ## 🌐 Connect with Me
-
 <p>
   <a href="https://www.linkedin.com/in/dhruv-panchal-ab7135217/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dhruv-panchal.medium.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" /> </a>
-  
+  <a href="https://dhruv-panchal.medium.com/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-<br/>
+<br/><br/>
 
 ---
 
-### 🛠️ Languages & Tools
-
+## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Blog Posts
+- 🔗 [Zero to Hero: NLP Pipeline Explained](https://dhruv-panchal.medium.com/nlp-pipeline)
+- 🔗 [Deploying ML Models with Flask + AWS](https://dhruv-panchal.medium.com/deploying-ml-flask)
+- 🔗 [Mastering GenAI with Transformers](https://dhruv-panchal.medium.com/genai-transformers-article)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchaldhruv27223&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+[More on Medium →](https://dhruv-panchal.medium.com/)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&theme=radical" alt="Stats"/>
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panchaldhruv27223&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchaldhruv27223&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&theme=radical" alt="Streak" />
 </p>
 
 ---
 
+## 🚀 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/panchaldhruv27223/panchaldhruv27223/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 🚀 Featured Projects
-- 📌 [High-Precision Rooftop Detection in Urban Aerial Imagery](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
-  
-<!--
-### 🚀 Featured Projects
-- 📌 [Project 1](https://github.com/yourrepo)
-- 📌 [Project 2](https://github.com/yourrepo)
+---
 
-### 🎯 Learning Goals
-- Transformers and LLM fine-tuning
-- Advanced MLOps (CI/CD, Docker, Airflow)
-- Quantum Machine Learning
--->
+## 🔹 Quote
+> "The best way to predict the future is to invent it." – Alan Kay
 
+---
