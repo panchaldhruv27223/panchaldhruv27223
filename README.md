@@ -20,8 +20,6 @@
 - Natural Language Processing & GenAI  
 - Full-Stack Integrations with ML Models  
 
-<br/>
-
 ---
 
 ## 🌐 Connect with Me
