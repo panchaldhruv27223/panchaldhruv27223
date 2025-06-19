@@ -79,11 +79,6 @@ Here are some of my GitHub analytics demonstrating my consistent contributions a
   <img width="96%" src="https://streak-stats.demolab.com?user=panchaldhruv27223&theme=radical" />
 </p>
 
-
-<a href="https://github.com/panchaldhruv27223">
-  <img src="https://ghchart.rshah.org/ff69b4/panchaldhruv27223" alt="Dhruv's GitHub chart" />
-</a>
-
 ---
 
 ## 🌐 Let's Connect
