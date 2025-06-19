@@ -80,6 +80,9 @@ Here are some of my GitHub analytics demonstrating my consistent contributions a
 </p>
 
 
+<a href="https://github.com/panchaldhruv27223">
+  <img src="https://ghchart.rshah.org/ff69b4/panchaldhruv27223" alt="Dhruv's GitHub chart" />
+</a>
 
 ---
 
