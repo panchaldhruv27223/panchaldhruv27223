@@ -77,7 +77,7 @@ Here are some of my GitHub analytics demonstrating my consistent contributions a
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=panchaldhruv27223&theme=radical" />
+  <img width="96%" src="https://streak-stats.demolab.com?user=panchaldhruv27223&theme=radical" />
 </p>
 
 
