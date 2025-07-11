@@ -101,10 +101,3 @@ Here are some of my GitHub analytics demonstrating my consistent contributions a
 > "The best way to predict the future is to invent it." – Alan Kay
 
 ---
-
-
-## 🌍 Visitors
-<p align="center">
-  <img src="https://profile-counter.glitch.me/panchaldhruv27223/count.svg" />
-</p>
-
