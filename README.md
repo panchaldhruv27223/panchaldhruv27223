@@ -36,9 +36,10 @@
 ## 🚀 Highlighted Project
 [![High-Precision Rooftop Detection in Urban Aerial Imagery](https://img.shields.io/badge/🔍%20Solar%20Rooftop%20Detection-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
 
+[![🧠 Vision-Language Model (PaliGemma Inspired)](https://img.shields.io/badge/🧠%20Vision--Language%20Model%20(PaliGemma)-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Vision-Language-Model/blob/main/readme.MD)
+
 [![🤖 Intelligent Assistance with Face Recognition.](https://img.shields.io/badge/🤖%20Intelligent%20Assistance%20With%20Face%20Recognition-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/InteliggentAssistentWithFaceRecognition)
 
-[![🧠 Vision-Language Model (PaliGemma Inspired)](https://img.shields.io/badge/🧠%20Vision--Language%20Model%20(PaliGemma)-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Vision-Language-Model/blob/main/readme.MD)
 
 ---
 
