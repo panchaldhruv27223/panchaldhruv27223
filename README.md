@@ -40,6 +40,10 @@
 
 [![🤖 Intelligent Assistance with Face Recognition.](https://img.shields.io/badge/🤖%20Intelligent%20Assistance%20With%20Face%20Recognition-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/InteliggentAssistentWithFaceRecognition)
 
+---
+
+## 🧠 Latest Project: Machine Unlearning (SISA Training)
+
 <div align="center">
   <a href="https://youtu.be/0W-w3Fh4VfQ" target="_blank">
     <img src="https://img.shields.io/badge/▶️%20Watch%20Video%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -49,9 +53,15 @@
     <img src="https://img.shields.io/badge/💻%20View%20Code%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 <p align="center">
   <img src="https://img.youtube.com/vi/0W-w3Fh4VfQ/maxresdefault.jpg" width="80%" alt="Machine Unlearning Video Thumbnail"/>
 </p>
+
+> Learn how AI models can **forget specific data** with SISA (Sharded, Isolated, Sliced, Aggregated) Training —  
+> A complete **Machine Unlearning demo** with Python and PyTorch.
+
+---
 
 ---
 
