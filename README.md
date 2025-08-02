@@ -42,7 +42,7 @@
 
 ---
 
-## 🧠 Latest Project: Machine Unlearning (SISA Training)
+### Machine Unlearning (SISA Training)
 
 <div align="center">
   <a href="https://youtu.be/0W-w3Fh4VfQ" target="_blank">
