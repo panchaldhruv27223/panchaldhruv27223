@@ -26,6 +26,13 @@
 
 ---
 
+## 👨‍💻 About Me
+- 🎓 M.Tech student passionate about **Machine Learning, Deep Learning, and Generative AI**.
+- 🛠 Love building **end-to-end AI solutions**, from research to deployment.  
+- ✍️ I share my learnings through blogs and open-source contributions.  
+
+---
+
 ## 📍Current Focus Areas
 - Machine Learning & Deep Learning Projects  
 - Computer Vision & Natural Language Processing & GenAI  
