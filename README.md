@@ -41,6 +41,10 @@
 [![🤖 Intelligent Assistance with Face Recognition.](https://img.shields.io/badge/🤖%20Intelligent%20Assistance%20With%20Face%20Recognition-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/InteliggentAssistentWithFaceRecognition)
 
 
+<p align="center">
+  <img src="https://img.youtube.com/vi/0W-w3Fh4VfQ/maxresdefault.jpg" width="80%" alt="Machine Unlearning Video Thumbnail"/>
+</p>
+
 ---
 
 ## 🛠️ Languages & Tools
