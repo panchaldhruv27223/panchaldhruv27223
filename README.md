@@ -41,6 +41,8 @@
 ---
 
 ## 🚀 Highlighted Project
+[![Neural Collaborative Filtering](https://img.shields.io/badge/🔍%20Neural%20Collaborative%20Filtering-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/NCF_Recommendation)
+
 [![High-Precision Rooftop Detection in Urban Aerial Imagery](https://img.shields.io/badge/🔍%20Solar%20Rooftop%20Detection-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Solar_Rooftop_Detection)
 
 [![🧠 Vision-Language Model (PaliGemma Inspired)](https://img.shields.io/badge/🧠%20Vision--Language%20Model%20(PaliGemma)-Project-orange?style=for-the-badge)](https://github.com/panchaldhruv27223/Vision-Language-Model/blob/main/readme.MD)
