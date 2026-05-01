@@ -12,7 +12,7 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Building+production+AI+agents+with+MCP+%26+OpenAI+Agents+SDK;Open-source+contributor+to+agno+%7C+LangChain+%7C+OpenAI+Cookbook;Researcher%3A+Machine+Unlearning+%7C+Vision-Language+Models+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Building+production+AI+agents+with+MCP+%26+OpenAI+Agents+SDK;Open-source+contributor+to+agno+%7C+OpenAI+Cookbook;Researcher%3A+Machine+Unlearning+%7C+Vision-Language+Models+%7C+RAG" alt="Typing SVG" />
 </p>
 
 ---
