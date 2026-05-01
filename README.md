@@ -27,10 +27,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 M.Tech in Machine Learning **@ DA-IICT** (Dhirubhai Ambani Institute)
-- 🤖 Building **agentic systems** — MCP servers, OpenAI Agents SDK, multi-agent orchestration
+- 🎓 M.Tech in Machine Learning **@ DA-IICT** (Dhirubhai Ambani University formerly known as DA-IICT)
+- 🤖 Building **agentic systems** — MCP servers, OpenAI Agents SDK, multi-agent orchestration, AGNO, LangChain, LangGraph, LangFuse
 - 🔬 Implementing research papers — **Transformer (Vaswani et al.)**, **Micrograd**, **SISA Unlearning**, **PaliGemma**
-- ✍️ Writing on [Medium](https://dhruv-panchal.medium.com/), mentoring on [Topmate](https://topmate.io/panchal_dhruv), ranking on [Codolio](https://codolio.com/profile/Dhruv%20Panchal)
+- ✍️ Writing on [Medium](https://dhruv-panchal.medium.com/), mentoring on [Topmate](https://topmate.io/panchal_dhruv)
 
 ---
 
