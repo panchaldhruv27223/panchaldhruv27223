@@ -172,7 +172,6 @@
 - 🧠 [Mastering TensorBoard with PyTorch](https://dhruv-panchal.medium.com/mastering-tensorboard-with-pytorch-a-hands-on-guide-with-fashion-mnist-6404a260618f)
 - 🛰️ [U-Net for Satellite Image Segmentation](https://dhruv-panchal.medium.com/fine-tuning-u-net-for-satellite-image-segmentation-5073146deb23)
 - 📚 [All You Need to Know About the "collections" Module in Python](https://medium.com/@dhruv-panchal/all-you-need-to-know-about-the-collections-module-in-python-c219b8a96f68)
-- 📝 *Drafting:* Building an Odoo MCP server with Langfuse observability — lessons from production
 
 [More on Medium →](https://dhruv-panchal.medium.com/)
 
